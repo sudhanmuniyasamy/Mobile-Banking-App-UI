@@ -111,6 +111,4 @@ The project contains a [`render.yaml`](./render.yaml) blueprint for 1-click host
 
 ---
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
