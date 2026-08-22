@@ -1,0 +1,6 @@
+{
+  "name": "Apex Mobile Banking",
+  "description": "A high-security mobile banking application with biometric authentication, dynamic financial dashboard, real-time transaction tracking, card controls, and instant money transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
